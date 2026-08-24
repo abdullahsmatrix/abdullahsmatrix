@@ -1,8 +1,8 @@
-### 👋 Hi there, I'm Abdullah!
 
----
 
+![](https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif)
 ![](https://komarev.com/ghpvc/?username=abdullahsmatrix&color=fb4362)
+<h1 align="centre"> 👋 Hi, I'm Abdullah!</h1>
 
 <h3>When I code, I rely on</h3>
 <p>
