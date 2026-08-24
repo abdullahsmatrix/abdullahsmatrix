@@ -24,7 +24,7 @@ I'm particularly interested in understanding how things work under the hood and 
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
@@ -63,7 +63,7 @@ route from start to finish
 
 ---
 
-### 🔹 [Born2BeRoot]
+### 🔹 Born2BeRoot
 
 Virtual Linux Server
 
