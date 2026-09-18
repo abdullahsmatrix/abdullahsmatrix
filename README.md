@@ -4,7 +4,7 @@
 </h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=369B05&center=true&vCenter=true&width=500&lines=Software+Engineer+in+Progress;42+Warsaw+Student;Linux+%7C+C+%7C+Python+%7C+Git;Building+and+Learning+Every+Day" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=369B05&center=true&vCenter=true&width=500&lines=Engineer+in+Progress;42+Warsaw+Student;Linux+%7C+C+%7C+Python+%7C+Git;Building+and+Learning+Every+Day" alt="Typing SVG" />
   </a>
 </p>
 
@@ -129,7 +129,7 @@ Prompt engineering project focused on turning natural language into structured f
   </a>
 </p>
 
-📫 **Email:** abdullahalmamun9918@gmail.com
+📫 **Email:** abdullahalmamun9907@gmail.com
 
 ---
 
